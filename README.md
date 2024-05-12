@@ -45,4 +45,5 @@ Este conjunto de dados abrangente fornece informações detalhadas sobre acident
 
 **LSOA_of_Casualty**: A Área de Super Saída de Camada Inferior (LSOA) associada à localização da vítima
 
-Este conjunto de dados fornece informações valiosas para analisar acidentes rodoviários, identificar tendências e implementar medidas de segurança para reduzir vítimas e melhorar a segurança rodoviária. Pesquisadores, formuladores de políticas e analistas podem aproveitar esse conjunto de dados para a tomada de decisões baseadas em evidências e melhorar os sistemas gerais de transporte rodoviário.
+> [!NOTE]
+>Este conjunto de dados fornece informações valiosas para analisar acidentes rodoviários, identificar tendências e implementar medidas de segurança para reduzir vítimas e melhorar a segurança rodoviária. Pesquisadores, formuladores de políticas e analistas podem aproveitar esse conjunto de dados para a tomada de decisões baseadas em evidências e melhorar os sistemas gerais de transporte rodoviário.
